@@ -19,6 +19,7 @@ Sou apaixonado por tecnologia e venho me dedicando à área de **desenvolvimento
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/victorpessoa04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
+    
   </a>
 </p>
 
@@ -30,6 +31,7 @@ Sou apaixonado por tecnologia e venho me dedicando à área de **desenvolvimento
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="GIT" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
 
 ---
@@ -52,4 +54,5 @@ Sou apaixonado por tecnologia e venho me dedicando à área de **desenvolvimento
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorpessoa04&theme=tokyonight&layout=compact&custom_title=Tecnologias+Mais+Usadas&langs_count=9"  
 />
+
 
