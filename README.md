@@ -19,6 +19,13 @@ Sou apaixonado por tecnologia e venho me dedicando à área de **desenvolvimento
       title="Me siga no GitHub" 
       src="https://custom-icon-badges.demolab.com/github/followers/victorpessoa04?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
     />
+    <a href="https://www.linkedin.com/in/felipe-honorato-88679525b" target="_blank">
+        <img 
+            alt="LinkedIn" 
+            title="Perfil no LinkedIn" 
+            src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
     
   </a>
 </p>
